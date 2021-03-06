@@ -2,7 +2,8 @@
 
 > FullStack Developer (Vue.Js & Laravel)
 
-> Graduado em "Gestão de Tecnologia da Informação" pela Uninter
+> Graduado em "Análise e Desenvolvimento de Sistemas" pela Fundação Visconde de Cairú
+> Pós Graduado em "Engenharia de Software" pela Universidade Estácio de Sá
 
 ### Languages: pt-BR, en-US
 
