@@ -6,9 +6,9 @@
 
 ### Languages: pt-BR, en-US
 
-- [Linkedin](https://www.linkedin.com/in/flavio-andrade-900552192/)
-- Email: flavio.ssiv@gmail.com
-- [071982320674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
+- [Linkedin](https://www.linkedin.com/in/leandro-sales-50594614b/)
+- Email: leandro.sallesls@hotmail.com
+- [071993225360](https://api.whatsapp.com/send?1=pt_BR&phone=5571993225360)
 - Location: Salvador-BA
 
 ---
