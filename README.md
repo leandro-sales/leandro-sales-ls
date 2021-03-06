@@ -1,6 +1,6 @@
-# Flavio Santos de Andrade
+# Leandro Dos Santos Sales
 
-> Front-end Web Developer (Vue & React)
+> FullStack Developer (Vue.Js & Laravel)
 
 > Graduado em "Gestão de Tecnologia da Informação" pela Uninter
 
