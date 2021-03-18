@@ -14,7 +14,7 @@
 
 ---
 
-## Skills Set:
+## Habilidades:
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
@@ -39,7 +39,7 @@
 <!-- ### DevOps
 Jenkins, Docker, AWS -->
 
-### Extra skills
+### Extra
 
 Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel PHP, Design Pattern.
 
