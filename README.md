@@ -72,9 +72,6 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
 
   - Atividades: Suporte ao usuário, correção dos erros nos sistemas e no banco de dados.
     
-## PROTFÓLIO
-
-- [TECLA UP - Wordpress](https://teclaup.com/)
 
 
 ## PRETENSÃO SALARIAL
@@ -82,4 +79,4 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
 - CLT: > R\$ 7.000,00 + Beneficios
 - PJ: > R\$ 9.000,00
 
-_frase_
+_"A melhor maneira de prever o future é cria-lo" - Alan Kay_
