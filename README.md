@@ -3,7 +3,7 @@
 > FullStack Developer (Vue.Js & Laravel)
 
 > Graduado em "Análise e Desenvolvimento de Sistemas" pela Fundação Visconde de Cairú
-> Pós Graduado em "Engenharia de Software" pela Universidade Estácio de Sá
+> Cursando Pós Graduação em "Engenharia de Software" pela Universidade Estácio de Sá
 
 ### Languages: pt-BR, en-US
 
@@ -20,45 +20,62 @@
 
 | Beginner              | Intermediate                  | Advanced                       |
 | --------------------- | ----------------------------- | ------------------------------ |
-| Jest                  | Typescript                    | HTML                           |
-| GraphQL               | Vue.js (Vuex, Vue Router)     | CSS                            |
-| Firebase              | Webpack                       | SASS                           |
-| MySQL                 | Node.js (Express.js)          | Javascript                     |
-| Mongo DB              | Git                           | React (Redux, Context, Router) |
-| Storybook             | Gulp                          |                                |
-| Nuxt.js               | Php                           |                                |
-| Next.js               | Wordpress                     |                                |
-| React-testing-library | PWA                           |                                |
-|                       | CSS-IN-JS (styled-components) |                                |
+| Nuxt.js               | Laravel                       | PHP                            |
+| React.js              | Javascript                    | HTML                           |
+| Firebase              | Vue.js (Vuex, Vue Router)     | Git                            |
+| Angular               | Node.js (Express.js)          |                                |
+| Python                | Typescript                    |                                |
+| Jest                  | Phpunit                       |                                |
+| GraphQL               | Postgresql                    |                                |
+| Android(Java)         | SQLServe                      |                                |
+|                       | MongoDB                       |                                |
+|                       | UiPath(RPA)                   |                                |
+|                       | CSS                           |                                |
+|                       | Vuetify                       |                                |
+|                       | Bootstrap                     |                                |
+|                       | Linux                         |                                |
 |                       |                               |                                |
 
 <!-- ### DevOps
-Jenkins, Docker -->
+Jenkins, Docker, AWS -->
 
 ### Extra skills
 
-Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, SPA, PWA, Design Pattern.
-Metodologia BEM, RSCSS, ITCSS e DRY.
+Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel PHP, Design Pattern.
 
-<!-- Materialize CSS, Bulma CSS e Bootstrap. -->
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Exemple](https://www.mundiale.com.br/) - cargo [periodo]
+- [META](https://www.meta.com.br/) - Desenvolvedor Pleno - [Janeiro de 2021 - Atualmente]
 
-- [Exemple](https://www.agilize.com.br/) - catgoe [periodo]
+  - Atividades: Atualmente trabalho com JavaScript(Vue.Js) em um projeto chamado Córtex com o intuito de melhorar a segurança nacional rastreando veiculos
+    e pessoas que estão foragidos, o projeto esta sendo desenvolvido para o Ministerio da Justiça e Segurança Publica.
+    
+- [COUT](https://cout.app/) - Analista de Sistemas [Dezembro de 2020 - Atualmente]
 
-  - Stack utilizada: Typescript, React, React Hooks, Context API Storybook, Jest, React-testing-library, styled-components, Material-UI;
-  - Atividades: Atualização de sistema contábil legado e desenvolvimento de nova versão, desenvolvimento de design system seguindo padrões de UX.
+  - Atividades: Atualmente trabalho com PHP(Laravel) e JavaScript(Nuxt.Js) em um novo projeto da Cout com o intuito de gerenciar hospitais, atualmente o sistema esta na parte de     criação de escalas para o profissinais. 
+  
+- [ACP GROUP](http://www.acpgroup.com.br/) - Analista de Sistemas [Agosto de 2020 - Janeiro de 2021]
 
+  - Atividades: Trabalhei com PHP(Laravel) e JavaScript(Vue.Js) em um novo projeto da Lei Aldir Blanc, para liberar o pagamento do Auxilio Emergencial a os
+    trabalhadores da Cultura, ajudando no periodo da pandemia.
 
+- [CAPGEMINI](https://www.capgemini.com/br-pt/) - Analista de Sistemas [Janeiro de 2020 - Agosto de 2020]
+
+  - Atividades: Trabalhei com PHP(Laravel) e JavaScript(Vue.Js) em um novo projeto do Ministério Publico para gerenciar os gastos dos servidores.
+  
+- [WTF](http://www.wtf.inf.br/) - Analista de Sistemas [Janeiro de 2020 - Agosto de 2020]
+
+  - Atividades: Trabalhei com PHP(Codeigniter) e RPA(UiPath) realizando a criação de novos sistemas web e automatizando processos com o UiPath.
+
+- [TECNOTRENDS](http://www.tecnotrends.com.br/) - Suporte Técnico [Julho de 2016 - Dezembro de 2016]
+
+  - Atividades: Suporte ao usuário, correção dos erros nos sistemas e no banco de dados.
+    
 ## PROTFÓLIO
 
 - [TECLA UP - Wordpress](https://teclaup.com/)
 
-Testes:
-
-- [Teste em React & useReducer+useContext](https://fsareactmusic.herokuapp.com/reactmusic)
 
 ## PRETENSÃO SALARIAL
 
