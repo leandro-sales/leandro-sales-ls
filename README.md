@@ -36,8 +36,9 @@
 |                       | Linux                         |                                |
 |                       |                               |                                |
 
-<!-- ### DevOps
-Jenkins, Docker, AWS -->
+### DevOps
+
+Jenkins, Docker, AWS
 
 ### Extra
 
