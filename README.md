@@ -71,6 +71,10 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
 - [TECNOTRENDS](http://www.tecnotrends.com.br/) - Suporte Técnico [Julho de 2016 - Dezembro de 2016]
 
   - Atividades: Suporte ao usuário, correção dos erros nos sistemas e no banco de dados.
+  
+- [ANNYNET]() - Desenvolvedor PHP [Janeiro de 2015 - Setembro de 2018]
+
+  - Atividades: Desenvolver PDV e prestar manutenção no sistema.
     
 
 
