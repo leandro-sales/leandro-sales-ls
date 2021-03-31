@@ -53,7 +53,7 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
   - Atividades: Atualmente trabalho com JavaScript(Vue.Js) em um projeto chamado Córtex com o intuito de melhorar a segurança nacional rastreando veiculos
     e pessoas que estão foragidos, o projeto esta sendo desenvolvido para o Ministerio da Justiça e Segurança Publica.
     
-- [COUT](https://cout.app/) - Analista de Sistemas [Dezembro de 2020 - Atualmente]
+- [COUT](https://cout.app/) - Analista de Sistemas [Setembro de 2020 - Atualmente]
 
   - Atividades: Atualmente trabalho com PHP(Laravel) e JavaScript(Nuxt.Js) em um novo projeto da Cout com o intuito de gerenciar hospitais, atualmente o sistema esta na parte de     criação de escalas para o profissinais. 
   
