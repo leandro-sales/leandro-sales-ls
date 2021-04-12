@@ -82,7 +82,7 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
 
 ## PRETENSÃO SALARIAL
 
-- CLT: > R\$ 7.000,00 + Beneficios
-- PJ: > R\$ 9.000,00
+- CLT: > R\$ 8.000,00 + Beneficios
+- PJ: > R\$ 12.000,00
 
 _"A melhor maneira de prever o future é cria-lo" - Alan Kay_
